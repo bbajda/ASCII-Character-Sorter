@@ -115,7 +115,7 @@ def read_ascii_characters_from_file(filename):
         return None
 
 if __name__ == "__main__":
-    extracted_data = None  # Initialize outside the loop
+    extracted_data = None
 
     while True:
         print("\nOptions:")
